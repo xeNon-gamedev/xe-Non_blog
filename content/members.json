@@ -1,0 +1,27 @@
+{
+  "gramme": {
+    "name": "ぐらむ",
+    "avatar": "/avatars/gramme.webp",
+    "position": "left"
+  },
+  "kinokov": {
+    "name": "キノコフ",
+    "avatar": "/avatars/kinokov.webp",
+    "position": "right"
+  },
+  "andy": {
+    "name": "アンディー",
+    "avatar": "/avatars/andy.webp",
+    "position": "right"
+  },
+  "kisrag": {
+    "name": "如月",
+    "avatar": "/avatars/kis4_xeNon.webp",
+    "position": "right"
+  },
+  "editor": {
+    "name": "Editor",
+    "avatar": "/avatars/editor.png",
+    "position": "right"
+  }
+}
