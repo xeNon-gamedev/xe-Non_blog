@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { Article, Category } from './types';
+import { Article } from './types';
 
 const articlesDirectory = path.join(process.cwd(), 'content/articles');
 const featuredFile = path.join(process.cwd(), 'content/featured.json');

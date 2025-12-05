@@ -5,7 +5,6 @@ import { ArrowLeft, Calendar, Tag, User } from "lucide-react";
 import { MDXRemote } from 'next-mdx-remote/rsc';
 import { ChatBubble } from "@/components/mdx/ChatBubble";
 import { Question } from "@/components/mdx/Question";
-import { Quote } from "@/components/mdx/Quote";
 import { Metadata } from "next";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
 import rehypeHighlight from "rehype-highlight";
@@ -15,7 +14,6 @@ import remarkGfm from "remark-gfm";
 const components = {
   ChatBubble,
   Question,
-  Quote,
 };
 
 export async function generateStaticParams() {
